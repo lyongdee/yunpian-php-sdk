@@ -2,7 +2,7 @@
 	"name" : "yunpian/yunpian-php-sdk-special",
 	"description" : "Yunpian PHP SDK",
 	"keywords" : [
-		"yunpian",
+		"yunpian-special",
 		"sdk"
 	],
 	"license" : "MIT",
