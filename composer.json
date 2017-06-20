@@ -13,7 +13,7 @@
 	"config" : {
 		"preferred-install" : "dist"
 	},
-	"homepage" : "https://github.com/yunpian/yunpian-php-sdk",
+	"homepage" : "https://github.com/yunpian/yunpian-php-sdk-special",
 	"support" : {
 		"issues" : "https://github.com/yunpian/yunpian-php-sdk/issues",
 		"wiki" : "https://github.com/yunpian/yunpian-php-sdk/wiki",
